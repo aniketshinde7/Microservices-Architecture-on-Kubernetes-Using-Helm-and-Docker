@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: deekshithsn/shoe
+  repository: aniketshinde7/shoe
   pullPolicy: IfNotPresent
 
 service:
