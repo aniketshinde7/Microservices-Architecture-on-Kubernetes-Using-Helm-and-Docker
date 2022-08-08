@@ -2,7 +2,7 @@
 replicaCount: 1
 
 image:
-  repository: deekshithsn/offer
+  repository: aniketshinde7/offer
   pullPolicy: IfNotPresent
 
 service:
