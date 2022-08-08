@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: deekshithsn/wishlist
+  repository: aniketshinde7/wishlist
   pullPolicy: IfNotPresent
 
 service:
