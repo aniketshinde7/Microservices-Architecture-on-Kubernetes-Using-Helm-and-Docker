@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: deekshithsn/zuul
+  repository: aniketshinde7/zuul
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
